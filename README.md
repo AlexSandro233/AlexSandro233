@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou Alex Sandro 👋
 
-<!--
-**AlexSandro233/AlexSandro233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Web em formação
 
-Here are some ideas to get you started:
+Sou interessado em desenvolvimento web e design,
+com conhecimentos em HTML5, CSS3 e Adobe Photoshop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou desenvolvendo projetos pessoais
+para aprimorar minhas habilidades e construir
+soluções digitais.
+
+## 🛠️ Tecnologias e ferramentas
+
+- HTML5
+- CSS3
+- Adobe Photoshop
+
+## 🚀 Projetos
+
+- Portfólio pessoal
+- Projetos de desenvolvimento web
+
+## 🎯 Objetivo
+
+Continuar evoluindo como desenvolvedor web,
+aprimorando minhas habilidades em criação de sites,
+design e desenvolvimento front-end.
